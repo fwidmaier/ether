@@ -78,3 +78,5 @@ test.key/decrypt> X
 [] Encryption of contents...
 Contents have been sucessfully writen to test.key
 ```
+
+For further documentation, check out [doc/doc.pdf](https://github.com/fwidmaier/ether/blob/main/doc/doc.pdf) (however, this file is written in German).
