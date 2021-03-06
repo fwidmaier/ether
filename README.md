@@ -16,7 +16,7 @@ w^.._      /      "\_                      _/"     \        _.^w
                  `/.w***,   /(    )\   ,***w."
                   ^ ilmk ^c/ )    ( \c^      ^
                           'V')_)(_('V'
-[ether]$  enctypt
+[ether]$  encrypt
 Use existing cfile? [y/n] n
 Please enter the name of your new cfile.
 > test.key
